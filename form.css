@@ -1,0 +1,30 @@
+.container{
+    background-color:gray;
+    background-image:url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2655.jpg?size=626&ext=jpg&ga=GA1.1.1824100326.1720489065&semt=ais_hybrid");
+    background-size: cover;
+    margin:10px 185px;
+    padding:5px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+        background-image:url("https://img.freepik.com/free-vector/gradient-background-with-bokeh-effect_52683-29043.jpg?uid=R155085308&ga=GA1.1.1824100326.1720489065&semt=ais_user");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: blick;
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color:yellow;
+    }
+ 
